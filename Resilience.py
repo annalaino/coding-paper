@@ -1,7 +1,3 @@
-# Simple template for controlling GPS-X from a Python interpreter
-# This script is launched from GPS-X
-# GPS-X copyright 2022 Hatch
-
 import random
 import os
 import pandas as pd
